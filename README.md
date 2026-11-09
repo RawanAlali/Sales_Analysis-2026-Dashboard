@@ -16,7 +16,7 @@ The dashboard translates raw transaction data into clear financial KPIs and dyna
 * **Average Order Value (AOV):** **\$238.35**
 
 * **Total Units Sold:** **6,698 units**
-* 
+  
 
 ## 🎯 Core Features & Analytical Insights
 
