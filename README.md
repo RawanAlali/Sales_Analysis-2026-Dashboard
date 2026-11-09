@@ -5,7 +5,7 @@
 An interactive **Sales Analysis Dashboard** designed to evaluate retail performance, sales channel efficiency, and geographical product demand. 
 The dashboard translates raw transaction data into clear financial KPIs and dynamic visual reports, empowering decision-makers to track revenue growth, profit margins, and inventory performance.
 
-<img src="./Image/Sale 2026 Analysis Dashboard-Excel2026" alt="Sales Overview Dashboard" width="100%">
+<img src="Image/Sale 2026 Analysis Dashboard-Excel2026.gif" alt="Sales Overview Dashboard" width="100%">
 
 ## 📈 Key KPIs & Highlights
 
