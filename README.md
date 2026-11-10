@@ -30,10 +30,10 @@ The dashboard translates raw transaction data into clear financial KPIs and dyna
 
   * **Sales Channel Comparison:** Breakdown of sales streams across *Online Store, Corporate, Retail Partners,* and *Marketplace*.
 
-* 🔝 **Top Products Ranking:** Identification of top 5 items by volume (e.g., *Trail Boots, Summit Backpack 45L, Compact Sleeping Bag*).
+* 🔝 **Top Products Ranking:** Identification of top 5 items by Units Sold (e.g., *Trail Boots, Summit Backpack 45L, Compact Sleeping Bag*).
 
 * 🎛️ **Dynamic Slicers:** Instant filtering by **Order Date**, **Customer Type** (*Business, New, Returning*), **Sales Channel**, and **Country**.
-* 
+
 
 ## 🛠️ Tools & Technologies Used
 
